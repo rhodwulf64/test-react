@@ -1,0 +1,11 @@
+.btn-main {
+    cursor: pointer;
+}
+.color-primary {
+    color: white;
+    background-color: teal;
+}
+.color-danger {
+    color: white;
+    background-color: rgba(128, 0, 0, 0.795);
+}
